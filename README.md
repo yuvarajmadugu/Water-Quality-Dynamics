@@ -1,7 +1,7 @@
-### 🌊 Predictive Modeling of Long-Term Water Quality Dynamics
+# 🌊 Predictive Modeling of Long-Term Water Quality Dynamics
 A mini project developed as part of the B.Tech (AI & ML) curriculum at Kommuri Pratap Reddy Institute of Technology. This project applies AI and data analytics techniques to model and forecast groundwater contamination and surface water quality trends using spatial, temporal, and environmental data.
 
-# 📘 Project Summary
+### 📘 Project Summary
 - This project introduces an AI-driven predictive model that integrates:
 - Weighted regression techniques
 - Geospatial features (latitude, longitude, elevation)
@@ -9,13 +9,13 @@ A mini project developed as part of the B.Tech (AI & ML) curriculum at Kommuri P
 - Temporal & seasonal data (discharge rates, monsoon cycles)
 The goal is to provide accurate, location-aware forecasts of water quality, aiding sustainable water resource management and early contamination warning systems.
 
-# 🎯 Objectives
+### 🎯 Objectives
 - Develop an AI model that can predict water quality over time
 - Incorporate spatial and environmental variables
 - Use entropy-based feature selection and Pearson correlation
 - Enable contamination risk mapping and real-time dashboards
 
-# 🔍 Key Features
+### 🔍 Key Features
 | Feature                         | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
 | 🔬 Hybrid AI Modeling           | Combines regression, KNN, and Random Forest models                          |
@@ -25,7 +25,7 @@ The goal is to provide accurate, location-aware forecasts of water quality, aidi
 | 🧪 Accurate Forecasts           | Predicts pH, turbidity, DO, COD, chlorides, alkalinity, and more            |
 
 
-# 📈 Methodology
+### 📈 Methodology
 - 📥 Data Collection
     pH, turbidity, DO, hardness, COD, temperature, etc.
     Location data: Latitude, longitude, elevation
@@ -46,7 +46,7 @@ The goal is to provide accurate, location-aware forecasts of water quality, aidi
     RMSE 
     MAE
 
-# 🖥️ Software Stack
+### 🖥️ Software Stack
 - Component	Version
 - Python	3.7.6
 - Pandas	0.25.3
@@ -56,17 +56,17 @@ The goal is to provide accurate, location-aware forecasts of water quality, aidi
 - Seaborn	0.10.1
 - Jupyter Notebook	
 
-# 🧰 Hardware Requirements
+### 🧰 Hardware Requirements
 - ✅ Min 4GB RAM (8GB recommended)
 - ✅ 1GHz dual-core processor or higher
 - ✅ OS: Windows 7+, Linux, or macOS 10.9+
 
-# 📊 Results
+### 📊 Results
 - Achieved high predictive accuracy for pH, turbidity, and DO
 - Heatmaps showed strong correlations between COD, turbidity, and chlorides
 - Successfully demonstrated real-time risk mapping capabilities
 
-# 🌍 Applications
+### 🌍 Applications
 - ✅ Groundwater contamination monitoring
 - ✅ Smart cities water management
 - ✅ IoT + AI-based water monitoring systems
@@ -74,17 +74,17 @@ The goal is to provide accurate, location-aware forecasts of water quality, aidi
 - ✅ Agricultural irrigation planning
 - ✅ Public health and early warning systems
 
-# 📌 Future Enhancements
+### 📌 Future Enhancements
 - Integrate IoT sensor data in real time
 - Deploy via Flask or FastAPI with a web dashboard
 - Expand model to classify contamination levels
 - Include satellite or remote sensing data
 
-# 👥 Contributors
+### 👥 Contributors
 - Randhi Ram Kiran (22RA1A6659)
 - Yuvaraj Madugu (22RA1A6697)
 - Maddati Rakesh (22RA1A6658)
 
-# 📜 License
+### 📜 License
 - This project is part of academic coursework. Use for educational and non-commercial purposes only.
 
